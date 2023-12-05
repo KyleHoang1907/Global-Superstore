@@ -1,9 +1,9 @@
 # Global-Superstore
-Sử dụng Power BI để tạo dashboard để đưa ra những insights và recommendations giúp senior manager thấy thông tin về tình hình kinh doanh để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược.
-Dataset có 3 bảng:
-Orders: có 51,291 records và Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer,Name,Segment,City,State,Country,Postal Code,Market,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,ProfitS,hipping,Cost,Order,Priority
-Return: có 1174 records và Returned, Order iD và Market
-People: có 14 records và Person, Region
+- Sử dụng Power BI để tạo dashboard để đưa ra những insights và recommendations giúp senior manager thấy thông tin về tình hình kinh doanh để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược.
+- Dataset có 3 bảng:
+#### Orders: có 51,291 records và Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer,Name,Segment,City,State,Country,Postal Code,Market,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,ProfitS,hipping,Cost,Order,Priority
+#### Return: có 1174 records và Returned, Order iD và Market
+#### People: có 14 records và Person, Region
 ## Insights	
 ### Tình hình kinh doanh nói chung	
 - Nhìn chung, doanh thu có xu hướng tăng đều từ năm 2011 đến hết năm 2014 với tỷ lệ tăng trưởng kép hằng năm(CAGR) bằng 17.46%. Tuy vậy, trong từng năm doanh thu có xu hướng tăng đều ở tất cả các ngành hàng (catergory) cho tới quý 4 rồi sụt giảm mạnh vào quý 1 của năm tiếp theo.
