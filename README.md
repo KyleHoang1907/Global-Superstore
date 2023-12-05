@@ -3,7 +3,7 @@ Sử dụng Power BI để tạo dashboard để đưa ra những insights và r
 
 ## Insight	
 ### Tình hình kinh doanh nói chung	
-	### Nhìn chung, doanh thu có xu hướng tăng đều từ năm 2011 đến hết năm 2014 với tỷ lệ tăng trưởng kép hằng năm(CAGR) bằng 17.46%. Tuy vậy, trong từng năm doanh thu có xu hướng tăng đều ở tất cả các ngành hàng (catergory) cho tới quý 4 rồi sụt giảm mạnh vào quý 1 của năm tiếp theo.
+	Nhìn chung, doanh thu có xu hướng tăng đều từ năm 2011 đến hết năm 2014 với tỷ lệ tăng trưởng kép hằng năm(CAGR) bằng 17.46%. Tuy vậy, trong từng năm doanh thu có xu hướng tăng đều ở tất cả các ngành hàng (catergory) cho tới quý 4 rồi sụt giảm mạnh vào quý 1 của năm tiếp theo.
 	Gross Profit Margin giữ ổn định trong khoảng 11% trong suốt 4 năm
 	Giá trị đơn hàng không chênh lệch nhiều qua các năm, trong khi đó số lượng đơn hàng có xu hướng tăng mạnh (gấp 1.7 lần vào năm 2014) tạo nên xu hướng tăng chung cho doanh thu toàn công ty.
 	Giá trị của các đơn hàng hoàn trả có xu hướng tăng nhẹ qua các năm với giá trị trung bình thường cao gấp 1.3 lần các đơn hàng thành công. Tập trung vào các thị trường như APAC (32%), US(22%), EU(25%), LATAM(20%)
